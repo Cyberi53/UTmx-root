@@ -57,7 +57,7 @@ $ ./startubuntu.sh
 :: How it works! ::
 </h3>
 <p align="center">
-<img src=".imgs/wf.gif"/>
+<img src=".imgs/utmxRoot_wf.gif"/>
 </p>
 
 ##

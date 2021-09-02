@@ -13,16 +13,15 @@
 - root
 - root@localhost:~#
 
-> `root@localhost:~#` `root`
+> `root` `root@localhost:~#`
 
 ##
 
 ### Installation
 ```
+$ cd
 $ apt-get update && apt-get upgrade -y
-$ apt-get install wget -y
 $ apt-get install proot -y
-$ apt-get install git -y
 $ git clone https://github.com/Cyberi53/UTmx-root
 $ cd UTmx-root
 $ ls
@@ -35,11 +34,14 @@ $ ./startubuntu.sh
 
 ### Dependencies
 
-**`T-bpi`** requires following programs to run properly - 
-- `apt install git`
+**`UTmx-root`** requires following programs to run properly - 
 - `apt install python`
+- `apt-get install git -y`
+- `apt-get install wget -y`
+- `apt-get install proot -y`
+- `termux-setup-storage`
 
-> All the dependencies will be installed automatically when you run `T-bpi` for the first time.
+> All the dependencies will be installed automatically when you run `UTmx-root` for the first time.
 
 ### Required Commands
 - rm -rf (uninstall tools name)

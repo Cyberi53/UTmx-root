@@ -11,9 +11,9 @@
 
 ### Features
 - root
-- python2
+- root@localhost:~#
 
-> `openssl` `openssh` `wget` `clang`
+> `root@localhost:~#` `root`
 
 ##
 
